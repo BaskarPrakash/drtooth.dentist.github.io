@@ -378,11 +378,12 @@ https://templatemo.com/tm-538-digital-trend
     background: var(--white-color);
     border-radius: var(--border-radius-small);
     position: absolute;
-    bottom: 32px;
+    bottom: 2px;
     right: 32px;
     left: 32px;
     width: 90%;
     padding: 32px;
+    opacity: 0.65;
   }
 
   .project-info small {
